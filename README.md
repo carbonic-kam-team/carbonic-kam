@@ -22,3 +22,6 @@ A UI/UX case study for a carbon footprint tracker that uses gamification (points
 * [cite_start]**Youth (18-30):** Looking for interactive and digital-first experiences[cite: 30].
 * [cite_start]**Families:** To monitor the household's environmental performance and teach kids about sustainability[cite: 28, 30].
 * [cite_start]**Environmental Activists:** Providing them with professional data and analysis tools[cite: 31, 32].
+
+  
+* Link Figjam : https://www.figma.com/board/RpVv7jBpOGJLT3cBvrmX9v/UX-CarbonicKam-teamDEPI?node-id=0-1&t=ebEgCiZ3mZeiZQ0A-1
