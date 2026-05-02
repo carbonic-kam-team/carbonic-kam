@@ -4,7 +4,7 @@ A UI/UX case study for a carbon footprint tracker that uses gamification (points
 
 [cite_start]**Carbonak Kam** is a localized UI/UX case study for an interactive mobile application designed to empower the Egyptian community to track and reduce their daily carbon footprint[cite: 3, 14, 83].
 
-## ✨ The Concept: Gamified Sustainability
+ ✨ The Concept: Gamified Sustainability
 [cite_start]Unlike traditional carbon calculators that feel "cold" or "academic," this project focuses on **Gamification** to turn environmental awareness into a fun, daily habit[cite: 13, 15, 70].
 
 ### 🏆 Key Features:
@@ -25,3 +25,8 @@ A UI/UX case study for a carbon footprint tracker that uses gamification (points
 
 ## ✨Figjam
 * Link Figjam : https://www.figma.com/board/RpVv7jBpOGJLT3cBvrmX9v/UX-CarbonicKam-teamDEPI?node-id=0-1&t=ebEgCiZ3mZeiZQ0A-1
+
+## 🎨 Figma
+* Link figma:
+
+https://www.figma.com/design/EMBTohxJzQntihjrdjKT91/carbonic-kam?node-id=2-2&t=12VB50LITSQR9QH1-1
